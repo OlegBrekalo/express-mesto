@@ -1,1 +1,1 @@
-module.exports.regexURL = /^https?\:\/\/(www\.)?(([\da-z\.-]+)[\/|\?|\=&]?)+#?$/gi;
+module.exports.regexURL = /^https?\:\/\/(www\.)?(([\da-z\.-]+)[\/|\?|\=&]?)+#?$/i;
