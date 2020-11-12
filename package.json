@@ -1,15 +1,15 @@
 {
   "name": "mesto-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "REST API of Mesto project for Yandex.Praktikum",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "inspect": "node --inspect app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oleg Brekalo",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.12.1",
